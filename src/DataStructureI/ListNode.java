@@ -1,4 +1,4 @@
-package linkedLists;
+package DataStructureI;
 
 import java.util.ArrayList;
 import java.util.List;
